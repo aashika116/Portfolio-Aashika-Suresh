@@ -12,7 +12,7 @@ No external Python packages or pip install commands are required.
 ## Running locally
 1. Clone the repository
 ```bash 
-git clone https://github.com/aashika116/portfolio.git 
+[git clone https://github.com/aashika116/Portfolio-Aashika-Suresh.git
 ```  
 ```bash 
 cd Portfolio-Aashika-Suresh
